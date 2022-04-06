@@ -1,4 +1,4 @@
-### Eaeee 👋 prazer, eu sou a Dani!
+### Eaeee, eu sou a Dani!
 
 - I’m currently working on Front-end Stoodi
 - 🌱 I’m currently learning Design Patterns
