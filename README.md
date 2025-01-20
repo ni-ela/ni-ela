@@ -1,8 +1,9 @@
-### Eaeee, eu sou a Dani!
+### Hi
 
-- I’m currently working on Front-end Stoodi
-- 🌱 I’m currently learning Design Patterns
-- 😄 Pronouns: ela/dela
+- I’m currently working at Cogna Educação
+- I am a Manauara fascinated by languages... soon to be a polyglot. 
+- French and English student
+- I completed my high school and technical education at the Federal Institute of Amazonas
 
 <div align="center">
   <a href="https://github.com/ni-ela">
